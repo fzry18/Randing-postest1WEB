@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+}
+
+
+
+img {
+    display:  inline-block;
+    margin-bottom: 125px;
+    position: relative;
+    left: 55px;
+    width: 13%;
+  }
+
+.txt {
+    position: relative;
+    margin-left: 30%;
+    display: inline-block;
+    position: center;
+  }
+
+
+ul {
+    position: relative;
+    left: 20%;
+    list-style-position: inside;
+} 
+
+li {
+    position: relative;
+    top: -18px;
+    left: 50px;
+} 
+
+a {
+    position: relative;
+    left: 25%;
+}
+
+table, tr, th ,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+} 
+
+.index-no {
+    padding: 15px;
+    background-color: #146152;
+    color: #fff;
+} 
+
+th {
+    padding: 10px;
+}
+
+.index-jad {
+    width: 650px;
+    background-color: #FFEC5C;
+} 
+
+.index-cnter {
+    text-align: center;
+}
+
+td {
+    padding: 8px;
+}
